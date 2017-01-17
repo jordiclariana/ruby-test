@@ -19,6 +19,7 @@
 * Try to run test program:
 
 `cd /vagrant` # Your repo, inside the Vagrant machine, is hosted in `/vagrant` directory
+
 `ruby test.rb`
 
 
